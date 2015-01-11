@@ -1,0 +1,3 @@
+vagrant box add debian https://github.com/kraksoft/vagrant-box-debian/releases/download/7.7.0/debian-7.7.0-amd64.box
+vagrant plugin install vagrant-vbguest
+vagrant up
